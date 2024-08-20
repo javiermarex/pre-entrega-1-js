@@ -26,6 +26,7 @@ function mostrarNisuta(){
     if (lista === "1") {
         mostrarProductos();
     } else (lista === "2"); {
+        alert ("Gracias por su visita.");
         window.location.href = "https://www.google.com.ar";    
 
     } 
@@ -36,6 +37,7 @@ function mostrarGenius(){
     if (lista === "1") {
         mostrarProductos();
     } else (lista === "2"); {
+        alert ("Gracias por su visita.");
         window.location.href = "https://www.google.com.ar";    
 
     } 
@@ -47,6 +49,7 @@ function mostrarLogitech(){
     if (lista === "1") {
         mostrarProductos();
     } else (lista === "2"); {
+        alert ("Gracias por su visita.");
         window.location.href = "https://www.google.com.ar";    
 
     } 
